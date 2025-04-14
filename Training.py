@@ -1,0 +1,2 @@
+#FFFFFF
+print('hello world')
